@@ -1,0 +1,2415 @@
+@media only screen and (max-width: 600px){
+	
+	
+	.buttonDiv{
+		margin-top: -5.5vw;
+	}
+	
+	.buttonColor{
+		width: 40vw;
+	}
+	
+	.buttonText{
+		font-size: 12px;
+		
+	}
+	.logopic{
+		height: 150px;
+		width: 350px;
+		top: 50%;
+	}
+	
+	.logodiv{
+		height: 50%;
+	}
+	
+	
+	/*First page*/
+	
+	.navLogo{
+		width: 150px;
+		height: 40px;
+		margin-top: 3vw;	
+		margin-left: 3vw;
+		position: absolute;
+	}
+	
+	.navbox{
+		width: 100%;
+		background-color: #113F67;
+		height: 70px;
+		position:absolute;
+	}
+	
+	.navvi{
+		display: flex;
+		justify-content: end; 
+		list-style-type: none;
+		margin-right: 5vw;
+	}
+	
+	.padds{
+		font-size: 12px;
+		margin-left:15px;
+		margin-right:2vw;
+		color: fff;
+		margin-top: 6vw;
+	}
+	
+	/*Home page*/
+	
+	.mottobox{
+		height: 120vw;
+	}
+	.motto{
+		left: 10vw;
+		top: 25vw;
+	}
+	
+	.univmotto{
+		font-size: 3.5vw;
+		left: 2.5vw;
+	}
+	
+	.univmotto1{
+		font-size: 7.5vw;
+		top: 5.5vw;
+		width: 45vw;
+		text-align: center;
+		left: -4vw;
+	}
+	
+	.univmotto2{
+		font-size: 3.4vw;
+		width: 40vw;
+		top: 30.5vw;
+		text-align: center;
+		left:-1vw;
+	}
+	
+	.imgprof{
+		top: 7vw;
+		left:  50vw;
+		box-shadow: 0.9vw 0.9vw gray;
+	}
+	
+	.imgprof1{
+		top: 35vw;
+		left: 50vw;
+		box-shadow: 0.9vw 0.9vw gray;
+	}
+	.profjp{
+		width: 35vw;
+		height: 20vw;
+	}
+	
+	.profjp1{
+		width:35vw;
+		height:20vw;
+	}
+	
+	.mottobutton{
+		top: 70vw;	
+		left: 15vw;
+		width: 50vw;
+		height: 15vw;
+		box-shadow: 0.9vw 0.9vw gray;
+	}
+	
+	.btntesst{
+		font-size: 3.5vw;
+		color: fff;
+	}
+	
+	.btntesst1{
+		font-size: 2.8vw;
+		margin-top: -2vw;
+		text-decoration: underline;
+		color: fff;
+	}
+	
+	.admission{
+		height: 78vw;
+		position: relative;
+	}
+	
+	.admissionbox{
+		height: 78vw;
+		width: 100%;
+		
+	}
+	
+	.admijpg{
+		width: 40vw;
+		height: 40vw;
+		left: 27vw;
+		top: 3vw;
+		box-shadow: 4px 4px gray;
+
+	}
+	
+	.admissiontext{
+		position: absolute;
+		margin-top: -32vw;
+		left: 11vw;
+		color: white;
+	}
+	
+	.addd{
+		font-size: 3.2vw;
+		width: 71vw;
+	}
+	
+	.adddheader{
+		font-weight: bold;
+		font-size: 4vw;
+	}
+	
+	.missionvibox{
+		width: 100%;
+		height: 180vw;
+	}
+	
+	.vision{
+		top: 10vw;
+		left: 19vw;
+	}
+	
+	.visiontext{
+		font-weight: bold;
+		font-size: 6vw;
+		text-align: center;
+		left: 10vw;		
+	}
+	.visiontext1{
+		text-align: center;
+		width: 60vw;
+	}
+	
+	.mission{
+		height: 100%;
+		top: 60vw;
+		left: 18vw;
+	}
+	.missiontext{
+		font-weight: bold;
+		font-size: 6vw;
+		text-align: center;
+		left: 10vw;
+	}
+	.missiontext1{
+		text-align: center;
+		width: 60vw;
+	}
+	/*Contact Page*/
+	
+	.conText{
+		font-size: 6vw;
+		color: 000;
+		margin-left: 6vw;
+		margin-top: 10vw;
+		font-weight: bold;
+	}
+	
+	.contactOn{
+		height: 15vw
+	}
+	
+	.navDiv{
+		width: 100%;
+		height: 16vw;
+	}
+	
+	.picAddress{
+		width: 12vw;
+		height: 12vw;
+		margin-left: 8vw;
+		margin-top: 6vw;
+		float: left;
+	}
+	
+	.picAddresstext{
+		font-size: 4vw;
+		float: right;
+		margin-top: 9vw;
+		margin-right: 5vw;
+		text-align: center;
+		width:70vw;
+	}
+	
+	.picEmail{
+		width: 12vw;
+		height: 12vw;
+		margin-left:7vw;
+		margin-top: 5vw;
+		float:left;
+	}
+	.picEmailtext{
+		font-size: 4vw;
+		float: left;
+		margin-top: 9vw;
+		margin-left: 35vw;
+		text-align: center;
+		
+	}
+	
+	.picPhone{
+		width: 12vw;
+		height: 12vw;
+		margin-left: 8vw;
+		margin-top: 6vw;
+		float: left;
+	}
+	
+	.picPhonetext{
+		font-size: 4vw;
+		float: left;
+		margin-top: 9vw;
+		margin-left: 45vw;
+		text-align: center;
+		
+	}
+
+	.picsIg{
+		width: 18vw;
+		height: vw;
+		margin-left: 6vw;
+		margin-top: 3vw;
+		float: left;
+	}
+	
+	.picIgtext{
+		font-size: 4vw;
+		margin-top: 9vw;
+		text-align: center;
+		margin-left: 12vw;
+	}	
+	
+	.picFb{
+		width: 12vw;
+		height: 12vw;
+		margin-left: 8vw;
+		margin-top: 4vw;
+		float: left;		
+	}
+	.picFbText{
+		font-size: 4vw;
+		float: left;
+		margin-top: 9vw;
+		text-align: center;
+		margin-left: 40vw;
+	}
+	
+	.picX{
+		width: 23vw;
+		height: 23vw;
+		margin-left: -22vw;
+		margin-top: 2vw;
+		float: left;		
+	}
+	.picXText{
+		font-size: 4vw;
+		margin-top:11vw;
+		margin-left: 11vw;
+		text-align: center;
+		
+	}
+	
+	.contactDivv{
+		width: 100%;
+		height: 20vw;
+	}
+	
+	.emailDivv{
+		width: 100%;
+		height: 20vw;
+	}
+	
+	.phoneDivv{
+		width: 100%;
+		height: 20vw;
+	}
+	.fbDivv{
+		width: 100%;
+		height: 20vw;
+	}
+	.igDivv{
+		width: 100%;
+		height: 20vw;
+	}
+	.xPics{
+		margin-right: 1vw;
+		width: 20vw;
+		height: 20vw;
+		float: left;
+	}
+	
+	.contactPics1{
+		margin-right: 5vw;
+		width: 20vw;
+		height: 20vw;
+		float: left;
+		margin-left: 1.5vw;
+	}
+	
+	.contactpics6{
+				margin-right: 5vw;
+		width: 20vw;
+		height: 20vw;
+		float: left;
+		margin-left: 1.5vw;
+	}
+	.textcon{
+		width: 100%;
+		text-align: center;
+		float: left;
+		position: absolute;
+	}
+	
+	.textcon1{
+		width: 100%;
+		text-align: center;
+		float: right;
+		position: absolute;
+	}
+	
+	.textcon2{
+		width: 100%;
+		text-align: center;
+		float: left;
+		position: absolute;
+	}
+	
+	.textcon3{
+		width: 100%;
+		text-align: center;
+		float: right;
+		position: absolute;
+	}
+	
+	.textcon4{
+		width: 100%;
+		text-align: center;
+		float: left;
+		position: absolute;
+	}
+	
+	.textcon5{
+		width: 100%;
+		text-align: center;
+		float: right;
+		position: absolute;
+	}
+	
+	.adupic{
+		width: 100%;
+		height: 50vw;
+	}
+	
+	.adujpg{
+		width: 100%;
+		height: 100%;
+	}
+	
+	.aduBox{
+		width: 100%;
+		height: 50vw;
+		
+	}
+	
+	.buo{
+		width: 100%;
+		height: 135vw;
+		margin-top: 10vw;
+	}
+	
+	.infobox{
+		width: 50%;
+		height: 9vw;
+		margin-top: -4.4vw;
+	}
+	
+	.infotx{
+		margin-right: -12vw;
+	}
+	
+	.infopic{
+		width: 7vw;
+		height: 7vw;
+		margin-top: 1vw;
+		margin-left: -20vw;
+	}
+	.hehe{
+		margin-top: -8vw;
+		margin-left: 50vw;
+		border-top: 4.5vw solid transparent;
+		border-left: 6.1vw solid #87c0cd;
+		border-bottom: 4.5vw solid transparent;	
+	}
+	
+	.hehehe{
+		margin-top: -8vw;
+		margin-left: 50vw;
+		border-top: 4.5vw solid transparent;
+		border-left: 6.1vw solid #87c0cd;
+		border-bottom: 4.5vw solid transparent;	
+	}
+	.unattext{
+		font-size: 3.5vw;
+		font-weight: bold;
+		margin-top: 22vw;
+		margin-left: 7vw;
+	}
+	
+	.nexttex{
+		font-size: 3vw;
+		margin-top: 28vw;
+		margin-left: 7vw;
+		width: 40vw;
+	}
+	
+	.adubutton{
+		width: 20vw;
+		height: 5vw;
+		margin-top: 25vw;
+		margin-left: 65vw;
+	}
+	
+	.adbtnt{
+		font-size: 3vw;
+		height: 9vw;
+		width: 100%;
+	}
+	
+	.adbtncol{
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		margin: 0;
+		height: 9vw;
+		width: 100%;
+		height: 9vw;
+	}
+	
+	.aduaddbox{
+		height: 50vw;
+	}
+	
+	.adumailDiv{
+		width: 100%;
+		height: 50vw;
+	}
+	
+	.mailpicc{
+		height: 50vw;
+	}
+	.adumailjpg{
+		height: 100%;
+	}
+	
+	.emailpic{
+		width: 7vw;
+		height: 7vw;
+		margin-top:1vw;
+		margin-left: -20vw;
+		position: absolute;
+	}
+	
+	.adumailbox{
+		height: 50vw;
+	}
+	
+	.adumailbox{
+		height: 50vw;
+	}
+	
+	.emailpic{
+		width: 7vw;
+		height: 7vw;
+		margin-left: -17vw;
+		margin-top: 0.5vw;
+		position: absolute;
+		z-index: -1;
+	}
+	
+	.emailpicbox{
+		left: 15vw;	
+	}
+	
+	.emailpics{
+		width: 10vw;
+		height: 10vw;
+		top: 13vw;
+	}
+	
+	.infftxtt{
+		font-size: 3vw;
+		top: 20vw;
+		left: -12vw;
+	}
+
+	.infftxttfb{
+		font-size: 3vw;
+		top: 38vw;
+		left: -15vw;
+	}
+	
+	.infftxttig{
+		font-size: 3vw;
+		top: 20vw;
+		left: -10vw;
+	}
+	
+	.infftxttx{
+		font-size: 3vw;
+		top: 38vw;
+		left: -1vw;
+	}
+
+	.fbpicbox{
+		left: 32vw;	
+	}
+	
+	.fbpics{
+		width: 10vw;
+		height: 10vw;
+		top:  30vw;
+	}
+	.igpicbox{
+		left: 60vw;	
+	}
+	
+	.igpics{
+		width: 15vw;
+		height: 15vw;
+		top:  10vw;
+	}
+	
+	.xpicbox{
+		left: 80vw;	
+	}
+	
+	.xpics{
+		width: 17vw;
+		height: 17vw;
+		top:  27vw;
+		left: -1vw;
+	}
+	
+	/*Contact page*/
+	
+	/*Video*/
+		
+
+	.relocate{
+		height: 100vw;
+	}
+	
+	.relocateabt{
+		height: 80vw;
+	}
+	
+	.relocategal{
+		height: 80vw;
+	}
+	
+	.relocatecon{
+		height: 80vw;
+	}
+	
+	.relocatebox{
+		width: 46vw;
+		height: 80vw;
+		z-index: 1;
+	}
+	
+	.relocateboxx{
+		width: 41vw;
+		height: 80vw;
+		z-index: 1;
+		margin-left: 58vw;	
+	}
+	
+	.relocateconbox{
+		width: 46vw;
+		height: 80vw;
+		z-index: 1;
+	}
+	.hehejpg{
+		width: 90vw;
+		height: 80vw;
+	}
+	
+	.conjpg{
+		width: 90vw;
+		height: 80vw;
+	}
+	
+	.dia{
+		border-top: 80vw solid #F3F9FB;
+		border-left: 0px solid transparent;
+		border-right: 10vw solid transparent;
+		height: 15vw;
+		width: 125px;
+		margin-left: 28vw;	
+	}
+	
+	.diaa{
+		border-top: 80vw solid #F3F9FB;
+		border-right: 0px solid transparent;
+		border-left: 10vw solid transparent;
+		height: 15vw;
+		width: 125px;
+		margin-left: -10vw;	
+	}
+	
+	.diaaa{
+		border-top: 80vw solid #F3F9FB;
+		border-left: 0px solid transparent;
+		border-right: 10vw solid transparent;
+		height: 15vw;
+		width: 125px;
+		margin-left: 28vw;	
+	}
+	
+	.relocatetxt{
+		top: 3vw;
+		font-size: 5vw;
+		left: 5vw;
+	}
+	
+	.relocatetxtt{
+		top: 3vw;
+		font-size: 5vw;
+		width: 30vw;
+		margin-left: 5vw;
+	}
+	
+	.relocatecontext{
+		top: 3vw;
+		font-size: 5vw;
+		
+		left: 8vw;
+	}
+	
+	.wajpg{
+		width: 59vw;
+		height: 80vw;
+	}
+	
+	.videobac{
+		height: 10vw;
+	}
+	
+	.vidbac{
+		width: 100%;
+		height: 130vw;
+		position: absolute;
+	}
+	
+	.videobac .overlaay{
+		width: 100%;
+		height:130vw;
+		position: relative;
+	}
+	
+	.overlaytxt{
+		color: #87C0CD;
+		font-size: 10vw;
+		width: 60vw;
+		top: 20vw;
+		position: absolute;
+	}
+	
+	.overlaytxtt{
+		position: absolute;
+		top: 50vw;
+		color: white;
+		font-size: 8vw;
+		width: 57vw;
+	}
+	
+	.pitext{
+		justify-content: center;
+		display: flex;
+		text-align: center;
+		width: 100%;
+		position: absolute;
+	}
+	
+	.overlayhr{
+		width: 90vw;
+		position: relative;
+		top: 54vw;
+	}
+	
+	.vidboxbg{
+		width: 100%;
+		height: 130vw;
+	}
+	
+	.buildingsbox{
+		height: 130vw;
+		width: 100%;
+	}
+	
+	.buildingboox{
+		height: 130vw;
+		position: absolute;
+	}
+	
+	.bgvid{
+		height: 130vw;
+	}
+	
+	.buildingboox .overlaay{
+		width: 100%;
+		height: 130vw;
+		top: 0;
+		position: relative;
+	}
+}
+@media only screen and (min-width: 610px){
+
+	.buttonDiv{
+		margin-top: -1.5vw;
+	}
+	
+	.buttonColor{
+		width: 40vw;
+	}
+	
+	.buttonText{
+		font-size: 12px;
+	}
+	
+	.logopic{
+		width: 560px;
+		height: 250px;
+		top: 50%;
+	}
+	
+	/*First Page*/
+	
+	.logodiv{
+		height: 50%;
+	}
+	.navLogo{
+		width: 380px;
+		height: 90px;
+		margin-left: 2vw;
+		margin-top: 0.5vw;
+	}
+	.navbox{
+		width: 100%;
+		background-color: #113F67;
+		height: 105px;	
+	}
+	
+	.padds{
+		font-size: 20px;
+		margin-left: 40px;
+		margin-right: 40px;
+		color: fff;
+		margin-top: 0.2vw;
+	}
+	
+	.navDiv{
+		width: 100%;
+		height: 7.2vw;
+		z-index: 5;
+		position: relative;
+	}
+	
+	.navvi{
+		margin-top: -4vw;
+		margin-left: 10vw;
+		text-align: center;
+		display: flex;
+		justify-content: center; 
+		list-style-type: none;
+	}
+	
+	/*Home page*/
+	
+	.mottobox{
+		height: 45vw;
+
+	}
+	.motto{
+		left: 10vw;
+		top: 10vw;
+	}
+	
+	.univmotto{
+		font-size: 2vw;
+	}
+	
+	.univmotto1{
+		width: 30vw;
+		top: 3vw;
+		font-size: 3.7vw;
+	}
+	
+	.univmotto2{
+		font-size: 1.5vw;
+		width: 40vw;
+		top: 10vw;
+	}
+	
+	.profjp{
+		
+		width: 20vw;
+		height: 13vw;
+	}
+	
+	.profjp1{
+		width: 20vw;
+		height: 13vw;
+	}
+	
+	.imgprof{
+		top: 3.5vw;
+		left: 40vw;
+		box-shadow: 4px 4px gray;
+	}
+
+	.imgprof1{
+		top: 3.5vw;
+		left: 64vw;
+		box-shadow: 4px 4px gray;
+	}
+	
+	.mottobutton{
+		top: 25vw;
+		left: 25vw;
+		width: 28vw;
+		height: 7.5vw;
+		box-shadow: 4px 4px gray;
+		
+	}
+	.btntesst{
+		font-size: 2vw;
+		color: fff;
+	}
+	
+	.btntesst1{
+		font-size: 1.5vw;
+		top: 3vw;
+		text-decoration: underline;
+		color: fff;
+	}
+	
+	
+	.admissionbox{
+		height: 35vw;
+		width: 100%;
+		
+	}
+	
+	.admijpg{
+		width: 30w;
+		height: 30vw;
+		left: 3vw;
+		top: 2.3vw;
+		box-shadow: 4px 4px gray;
+	}
+	
+	.admission{
+		width: 100%;
+		height: 35vw;
+	}
+	
+	.admissiontext{
+		top: 5vw;
+		width: 34vw;
+		left: 55vw;
+	}
+	
+	.addd{
+		font-size: 1.8vw;
+		color: fff;
+	}
+	.adddheader{
+		font-size: 2.5vw;
+		font-weight: bold;
+		color: fff;
+	}
+	
+	.missiontext{
+		left: 20vw;
+		font-weight: bold;
+		text-align: center;
+		font-size: 2.5vw;
+	}
+	
+	.missiontext1{
+		text-align: center;
+		width: 50vw;
+		font-size: 1.2vw;
+	}
+	
+	.mission{
+		left: 25vw;
+		top: 17vw;
+		position: absolute;
+	}
+	
+	.visiontext{
+		font-weight: bold;
+		text-align: center;
+		font-size: 2.5vw;
+	}
+	
+	.visiontext1{
+		text-align: center;
+		width: 50vw;
+		font-size: 1.2vw;
+	}
+	.vision{
+		top: 5vw;
+		left: 25vw;
+	}
+	
+	.missionvibox{
+		height: 48vw;
+	}
+
+	
+	/*Gallery page*/
+	
+	
+	
+	.mid{
+		font-size: 1.5vw;
+	}
+	
+	/*Contact page*/
+	
+	.contentTwo{
+		width: 100%;
+		height: 20vw;
+	}
+	.contactDivv{
+		width: 30vw;
+		height: auto;
+		position: absolute;
+		margin-left: 8vw;
+	}
+	.conText{
+		font-size: 1.8vw;
+		color: 000;
+		margin-left: 9vw;
+		margin-top: 6vw;
+		font-weight: bold;	
+	}
+	
+	.contactPics{
+		margin-left: 10vw;
+		width: 10vw;
+	}
+	
+	.contactPics1{
+		margin-left: 45vw;
+		margin-bottom: 0.4vw;
+		width: 12vw;
+		float: left;
+		position: relative;
+	}
+	
+	.picclass{
+		width: 5vw;
+		height: 5vw;
+	}
+	
+	.contactOn{
+		height: 13vw;
+	}
+	
+	
+	/*Contact pictures*/
+	
+	.contactOne{
+		height: 18vw;
+	}
+	.contactPics2{
+		margin-left: 11vw;
+		margin-bottom: 0.4vw;
+		width: 12vw;
+		float: left;
+		position: relative;
+	}
+	.picAddress{
+		width: 8vw;
+		height: 8vw;
+		position: relative;
+	}
+	.picAddresstext{
+		width: 18vw;
+		text-align: center;
+		font-size: 1.5vw;
+		margin-left: 5vw;
+	}
+	
+	.textcon{
+		text-align:center;	
+	}
+	
+	.emailDivv{
+		float: left;
+		width: 60vw;
+	}
+	.picEmail{
+		width: 8vw;
+		height: 8vw;
+		float:left;
+		position: relative;
+		margin-top: 1vw;
+	}
+	.picEmailtext{
+		text-align: center;
+		font-size: 1.5vw;
+		width: 18vw;
+		margin-left: 40vw;
+		margin-top:11vw;
+	}
+	
+	.textCon1{
+		margin-top: 2vw;
+	}
+	.picPhone{
+		width: 8vw;
+		height: 8vw;
+		float: left;
+		position: relative;
+		margin-top: 1vw;
+	}
+	
+	.textCon2{
+		margin-top: 2vw;
+	}
+	.picPhonetext{
+		text-align: center;
+		font-size: 1.5vw;
+		width: 18vw;
+		margin-left: 66vw;
+		position: absolute;
+		margin-top: 11vw;
+	}
+	
+	.fbDivv{
+		width: 30vw;
+		height: auto;
+		position: absolute;
+		margin-left: 8vw;
+	}
+	
+	.contactPics4{
+		margin-left: 10vw;
+		width: 10vw;
+		
+	}
+	
+	.picFb{
+		width: 8vw;
+		height: 8vw;
+		position: relative;
+	}
+	
+	.picfbtext{
+		width: 18vw;
+		text-align: center;
+		font-size: 1.5vw;
+		margin-left: 5vw;
+		margin-top: 2vw;
+	}
+	
+	.igDivv{
+		float: left;
+		width: 60vw;
+	}
+	
+	.contactpics5{
+		margin-left: 27vw;
+		margin-bottom: 0.4vw;
+		width: 12vw;
+		float: left;
+		position: relative;	
+	}
+	
+	.picsIg{
+		width: 11vw;
+		height: 11vw;
+		float: left;
+		position: relative;
+		margin-top: -1vw;
+		margin-left: 17vw;
+	}
+	
+	.picIgtext{
+		text-align: center;
+		font-size: 1.5vw;
+		width: 18vw;
+		margin-left: 41vw;
+		margin-top: 10vw;
+	}
+	
+	.xDivv{
+		
+	}
+	
+	.contactPics6{
+		margin-left: 71vw;
+		margin-bottom: 0.4vw;
+		width: 12vw;
+		float: left;
+		position: absolute;
+	}
+	
+	.picx{
+		width: 13vw;
+		height: 13vw;
+		float: left;
+		position: relative;
+		margin-top: -2vw;
+		margin-left: -3vw;
+	}
+	
+	.picxtext{
+		text-align: center;
+		font-size: 1.5vw;
+		width: 18vw;
+		margin-left: 66vw;
+		position: absolute;
+		margin-top: 10vw;
+	}
+	
+	.adujpg{
+		width: 100%;
+		height: 100%;
+	}
+	
+	.adupic{
+		width: 100%;
+		height: 25vw;
+	}
+	
+	.aducontactdiv{
+		width: 100%;
+		height: 50vw;
+	}
+	
+	.aducontactpicc{
+		height: 25vw;
+	}
+	
+	.aduaduadujpg{
+		width: 100%;
+		height: 100%;
+	}
+	
+	.adubox{
+		height: 25vw;
+		width: 50%;
+	}
+	
+	.infobox{
+		width: 40vw;
+		height: 8vw;
+		margin-top: -4vw;
+	}
+	
+	.infoobox{
+		width: 40vw;
+		height: 8vw;
+		margin-top: -4vw;
+	}
+	
+	.infooo{
+		background-color: #87C0CD;
+		margin: 0;
+		height: 100%;
+		width: 100%;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		-ms-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+		text-align: center;	
+	}
+	
+	.infoboxright{
+		width: 40vw;
+		height: 8vw;
+		margin-left: 58.9vw;
+	}
+	.infotx{
+		margin-right: -10vw;
+	}
+	
+	.infopic{
+		width: 6vw;
+		height: 6vw;
+		margin-left: -17vw;
+		margin-top: 1vw;
+	}
+	
+	.computerpng{
+		width: 5vw;                                         
+	}
+	
+	.hehe{	
+		margin-left: 40vw;
+		margin-top: -8vw;
+		border-top: 4.1vw solid transparent;
+		border-left: 5.7vw solid #87c0cd;
+		border-bottom: 4.1vw solid transparent;	
+	}
+	
+	.hehehe{	
+		margin-left: 40vw;
+		margin-top: vw;
+		border-top: 4.1vw solid transparent;
+		border-left: 5.7vw solid #87c0cd;
+		border-bottom: 4.1vw solid transparent;	
+	}
+	
+	.unattext{
+		font-size: 2vw;
+		font-weight: bold;
+		margin-top: 12vw;
+		margin-left: 7vw;
+	}
+	
+	.nexttex{
+		font-size: 1.5vw;
+		margin-top: 16vw;
+		margin-left: 7vw;		
+	}
+	
+	.adubutton{
+		width: 20vw;
+		height: 5vw;
+		margin-top: 11vw;
+		margin-left: 65vw;
+	}
+	
+	.adbtnt{
+		font-size: 1.5vw;
+	}
+	
+	.aduaddbox{
+		height: 25vw;
+	}
+	
+	.adbtncol{
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		margin: 0;
+		height: 100%;
+		width: 100%;
+	}
+	
+	.adumaildiv{
+		height: 50vw;
+	}
+	
+	.mailpicc{
+		height: 25vw;
+	}
+	.adumailjpg{
+		height: 100%;
+		position:;
+	}
+	
+	.aduaduadu{
+		
+	}
+	
+	.adugoto{
+		height: 25vw;
+	}
+	
+	.adumailbox{
+		height: 25vw;
+	}
+	
+	.emailpic{
+		width: 7vw;
+		height: 7vw;
+		margin-left: -17vw;
+		margin-top: 0.5vw;
+		position: absolute;
+		z-index: -1;
+	}
+	
+	.emailpicbox{
+		left: 11vw;	
+	}
+	
+	.emailpics{
+		width: 7.5vw;
+		height: 7.5vw;
+		top: 10vw;
+	}
+	
+	.infftxtt{
+		font-size: 1.5vw;
+		top: 17vw;
+		left: -5vw;
+	}
+
+	.infftxttfb{
+		font-size: 1.5vw;
+		top: 17vw;
+		left: -7vw;
+	}
+	
+	.infftxttig{
+		font-size: 1.5vw;
+		top: 17vw;
+		left: -3vw;
+	}
+	
+	.infftxttx{
+		font-size: 1.5vw;
+		top: 17vw;
+		left: 1vw;
+	}
+
+	.fbpicbox{
+		left: 35vw;	
+	}
+	
+	.fbpics{
+		width: 7vw;
+		height: 7vw;
+		top: 10vw;
+	}
+	.igpicbox{
+		left: 58vw;	
+	}
+	
+	.igpics{
+		width: 9vw;
+		height: 9vw;
+		top: 9.5vw;
+	}
+	
+	.xpicbox{
+		left: 80vw;	
+	}
+	
+	.xpics{
+		width: 10vw;
+		height: 10vw;
+		top: 9vw;
+	}
+	
+	.relocate{
+		height: 10vw;
+	}
+
+	.relocatebox{
+		width: 46vw;
+		height: 15vw;
+		z-index: 1;
+	}
+	
+	.relocateboxx{
+		width: 45.9vw;
+		height: 15vw;
+		z-index: 1;
+		margin-left: 53.1vw;
+	}
+	
+	.relocateabt{
+		margin-bottom: -0.3vw;
+		z-index: 3;
+	}
+	
+	.relocateconbox{
+		width: 47vw;
+		height: 15vw;
+		z-index: -3;
+		top: 14.9vw;
+	}
+	
+	.conjpg{
+		height: 15vw;
+		width: 70vw;
+		top:14.9vw;
+	}
+	
+	.diaaa{
+		border-top: 15vw solid #F3F9FB;
+		border-left: 0px solid transparent;
+		border-right: 5vw solid transparent;
+		height: 15vw;
+		width: 125px;
+		margin-left: 44vw;		
+	}
+	.relocategal{
+		
+	}
+	
+	.hehejpg{
+		width: 60vw;
+		height: 14.9vw;
+	}
+	.wajpg{
+		width: 60vw;
+		height: 14.9vw;
+	}
+	
+	.relocatetxt{
+		font-size: 2vw;
+		left: 2vw;
+		top: 2vw;
+		
+	}
+	
+	.relocatetxtt{
+		font-size: 2vw;
+		left: 2vw;
+		top: 2vw;
+	}
+	
+	.relocatecontext{
+		font-size: 2vw;
+		left: 2vw;
+		top: 3vw;
+	}
+	.dia{
+		border-top: 15vw solid #F3F9FB;
+		border-left: 0px solid transparent;
+		border-right: 5vw solid transparent;
+		height: 15vw;
+		width: 125px;
+		margin-left: 46vw;
+	}
+	
+	.diaa{
+		border-top: 15vw solid #F3F9FB;
+		border-right: 0px solid transparent;
+		border-left: 5vw solid transparent;
+		height: 15vw;
+		width: 125px;
+		margin-left: -5.5vw;		
+	}
+	
+	.buttonrelo{
+		width: 10vw;
+		height: 3vw;
+		top: 10vw;
+		left: 18vw;
+	}
+	
+	.buttonreloe{
+		width: 10vw;
+		height: 3vw;
+		top: 10vw;
+		left: 72vw;
+	}
+	
+	.buttonreloe:hover{
+		background-color: #87C0CD;
+		transition: 0.5s;
+		color: white;	
+	}
+	
+	.buttonreloo:hover{
+		background-color: #87C0CD;
+		transition: 0.5s;
+		color: white;
+	}
+	.buttonrelotxt{
+		font-size: 1vw;
+		text-align: center;
+	}
+	
+	.buttonrelo:hover{
+		background-color: #87C0CD;
+		transition: 0.5s;
+		color: white;
+	}
+	
+	.buttonreloo{
+		width: 10vw;
+		height: 3vw;
+		top: 25vw;
+		left: 18vw;	
+		z-index: 3;
+	}
+	
+	.videobac .overlaay{
+		width: 100%;
+		height: 100%;
+		top: 0;
+		position: relative;
+	}
+	
+	.vidbac{
+		width: 100%;
+		height: 55vw;
+		position: absolute;
+	}
+	.overlaytxt{
+		font-size: 3vw;
+		color: #87C0CD;
+	}
+	
+	.pitext{
+		width: fit-content;
+		position: absolute;
+		display: flex;
+		justify-content: center;
+		left: 35vw;
+		top: 20vw;
+	}
+	
+	.overlayhr{
+		top: 8vw;
+		left: -3vw;
+		width: 40vw;
+		position: absolute;
+	}
+	
+	.overlaytxtt{
+		width: fit-content;
+		position: absolute;
+		display: flex;
+		justify-content: center;
+		top: 8vw;
+		font-size: 2.5vw;
+		color: white;
+		width: 30vw;
+	}
+	
+	.vidboxbg{
+		width: 100%;
+		height: 55vw;
+	}
+	
+	.buildingboox .overlaay{
+		width: 100%;
+		height: 100%;
+		top: 0;
+		position: relative;
+	}
+}
+
+@media only screen and (min-width: 1600px){
+	
+	.gallerybox{
+		height: 100vw;
+	}
+	.buildingsbox{
+		height: 45vw;
+	}
+	
+	.buildingboox{
+		width: 100%;
+	}
+	
+	.buildingboox .overlaay{
+		width: 100%;
+		height: 100%;
+		top: 0;
+		position: relative;
+	}
+	
+	.bgvid{
+		height: 45vw;
+	}
+	.vidboxbg{
+		width: 100%;
+		height: 45vw;
+	}
+	.vidbac{
+		width: 100%;
+		height: 45vw;
+	}
+	.videobac .overlaay{
+		width: 100%;
+		height: 100%;
+	}
+	.navvi{
+		text-align: center;
+		display: flex;
+		justify-content: center; 
+		list-style-type: none;
+		margin-top: -3vw;
+}
+	.buttonColor{
+		width: 20vw;
+		height: 3vw;
+		top: 50%;
+	}
+	
+	.buttonDiv{
+		margin-top: -1.5vw;
+	}
+	
+	.buttonText{
+		font-size: 20px;
+		margin-top: 0.8vw;
+	}
+	.logopic{
+		width: 600px;
+		height: 250px;
+		top: 50%;
+	}
+	
+	.logodiv{
+		height: 50%;
+	}
+	
+	/*First Page*/
+	.navLogo{
+		width: 400px;
+		height: 80px;
+		margin-left: 30px;
+		margin-top: 5px;
+		
+	}
+	
+	.imgbox{
+		width:100%;
+		height: 80px;
+	}
+	.navbox{
+		width: 100%;
+		background-color: #113F67;
+		height: 100px;	
+		position: absolute;
+		z-index: 1;
+	}
+	
+	.padds{
+		font-size: 20px;
+		margin-left: 40px;
+		margin-right: 40px;
+		color: #fff;
+		margin-top: 20px;
+	}
+	
+	/*Contact page */
+	.navDiv{
+		width: 100%;
+		height: 5vw;
+	}
+	.contactOne{
+		height: 18vw;
+	}
+	
+	.adubox{
+		height: 25vw;
+	}
+	
+	.diaaa{
+		left:2.5vw;
+	}
+	
+	.overlaytxt{
+		font-size: 3vw;
+		color: #87C0CD;
+	}
+	
+	.pitext{
+		width: fit-content;
+		position: absolute;
+		display: flex;
+		justify-content: center;
+		left: 35vw;
+	
+	}
+	.overlayhr{
+		top: 8vw;
+		left: -3vw;
+		width: 40vw;
+		position: absolute;
+	}
+	
+	.overlaytxtt{
+		width: fit-content;
+		position: absolute;
+		display: flex;
+		justify-content: center;
+		top: 8vw;
+		font-size: 2.5vw;
+		color: white;
+		width: 30vw;
+		text-align: center;
+	}
+	
+	.physibox{
+		height: 50vw;
+		background-color: #226597;
+	}
+	
+	.physidiv{
+		top: 10vw;
+		left: 10vw;
+	}
+	
+	.physiimg{
+		width: 35vw;
+		height: 20vw;
+	}
+	
+	.physitext{
+		font-size: 3vw;
+		color: white;
+		-webkit-text-stroke-width: 1.5px; 
+		-webkit-text-stroke-color: black; 
+	}
+	
+	.labclass{
+		top: 10vw;
+		left: 3vw;
+		border: 10px solid #DB996C;
+	}
+	
+	.labclassvid{
+		height: 30vw;
+		width: 60vw;
+		object-fit: cover;
+	}
+	
+	.cert1{
+		top: -21.1vw;
+		float: right;
+		right: 1.4vw;
+		border: 10px solid #3F2305;
+	}
+	
+	.cert1pic{
+		width: 30vw;
+		height: 30vw;
+	}
+	
+	.cert2{
+		top: 10vw;
+		left: 3vw;
+		border: 10px solid #3F2305;
+	}
+	
+	.cert2pic{
+		width: 30vw;
+		height: 30vw;
+	}
+	
+	.cert3{
+		top: -21.2vw;
+		left:36vw;
+		
+	}
+	
+	.cert3pic{
+		width: 31vw;
+		height: 31vw;
+		border: 10px solid #DB996C;
+	}
+	
+	.facilities{
+		top: 50vw;
+		font-size: 3.5vw;
+		z-index: 4;
+		color: white;
+		-webkit-text-stroke-width: 1px; 
+        -webkit-text-stroke-color: black; 
+		text-align: center;
+	}
+	
+	.treepic{
+		height: 30vw;
+		width: 25vw;
+	}
+	
+	.tree{
+		float: right;
+		top: -21.5vw;
+		right: 3vw;
+		border: 10px solid #DB996C;
+	}
+}
+body{
+	width: 100%;
+	height: auto;
+	margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.physidiv{
+	position: absolute;
+}
+.biiid{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.logopic{
+	z-index: 2;
+	text-align: center;
+	position: relative;
+	}
+	
+.logoDiv{
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	width: 100%;
+	z-index: 2;
+}
+
+.header{
+	width:100%;
+	height: 50%;
+}
+
+.upperBg{
+	width: 100%;
+	height: 50%;
+	z-index: -1;
+	position: absolute;
+}
+
+.upperPic{
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	position: absolute;
+}
+
+.vidv{
+	width:100%;
+	height: 50%;
+	object-fit: cover;
+}
+
+.buttonDiv{
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+.buttonColor{
+	background-color:#87C0CD;
+	border: 3px solid black;
+}
+
+/*First Page*/
+
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+.navbox{
+	width: 100%;
+	background-color: #113F67;
+}
+
+/*Home page*/
+
+.motto{
+	width: fit-content;
+	position: absolute;
+}
+.mottobox{
+	width: 100%;
+}
+
+.univmotto{
+	position: absolute;
+	width: 50vw;
+}
+
+.univmotto1{
+	position: absolute;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.univmotto2{
+	position: absolute;
+}
+
+.profjpg{
+	position: absolute;
+}
+.profjpg1{
+	position: absolute;
+}
+
+.imgprof{
+	width: fit-content;
+	position: absolute;
+}
+
+.imgprof1{
+	width: fit-content;
+	position: absolute;
+}
+
+.mottobutton{
+	position: absolute;
+	background-color: #226597;
+	border-radius: 2vw;
+	border: 2px solid black;
+}
+
+.buttonbox{
+	position: absolute;
+	text-align: center;
+	width: 100%;
+}
+
+.btntesst1{
+	width: 100%;
+	text-align: center;
+	position: absolute;
+}
+
+.newsandtext{
+	position: absolute;
+}
+
+.admission{
+	width: 100%;
+	position: relative;
+}
+
+.admissionbox{
+	background-color: #87C0CD;
+	
+}
+
+.admijpg{
+	position: relative;
+}
+
+.admissiontext{
+	text-align: center;
+	position: absolute;
+}
+
+
+
+
+}
+
+.ending{
+	width: 100%;
+}
+
+.boxbox{
+	position: absolute;
+}
+
+/*Gallery page*/
+
+.buildingsbox{
+	width: 100%;
+	position: relative;
+}
+	
+.buildingboox{
+	width: 100%;
+}
+
+
+
+/*Contact page*/
+
+.contactDiv{
+	width: 100%;
+	position: absolute;
+}
+
+.contactOn{
+	width: 100%;
+}
+
+.contentInfo{
+	width: 100%;
+}
+
+.contactOne{
+	width: 100%;
+}
+
+
+.adubox{
+	position: absolute;
+}
+
+.unattext{
+	position:absolute;
+	z-index: 3;
+}
+.adubutton{
+	position: absolute;
+	z-index: 2;
+}
+
+.adbtnt{
+	position:absolute;
+	z-index: 4;
+}
+.infobox{
+	position: absolute;
+	z-index: 2;
+}
+
+.infoobox{
+	position: absolute;
+	z-index: 2;
+}
+
+.infocolor{
+	background-color: #87C0CD;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.infopic{
+	z-index: -1;
+	position: absolute;
+}
+
+.computerpng{
+	z-index:1;
+	position: absolute;
+}
+.infotx{
+	font-size: 2.5vw;
+	color: fff;
+}
+.hehe{
+}
+
+.adbtncol{
+	
+	background-color: #87C0CD;
+	position: absolute;
+	text-align: center;
+	box-shadow: 4px 4px gray;
+}
+
+.adbtnt{
+	color: fff;		
+	text-align: center;
+	width: 100%;
+	height: 100%;
+}
+
+.aduaddbox{
+	width: 100%;
+	
+}
+
+.adumailDiv{
+	width: 100%;
+}
+
+.aducontacctt{
+	width: 100%;
+}
+
+.mailpic{
+	width: 100%;
+}
+
+.aduaduadu{
+	width: 100%;
+}
+.adumailjpg{
+	width: 100%;
+}
+.adumailbox{
+	width: 100%;
+}
+
+.infoboxright{
+	position: absolute;
+	z-index: 2;
+}
+
+.infocolorright{
+	background-color: #87C0CD;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.emailpicbox{
+	width: fit-content;
+	position: absolute;
+}
+
+.emailpics{
+	position: absolute;
+}
+
+.fbpicbox{
+	width: fit-content;
+	position: absolute;
+}
+
+.fbpics{
+	position: absolute;
+}
+
+.igpicbox{
+	width: fit-content;
+	position: absolute;
+}
+
+.igpics{
+	position: absolute;
+}
+
+.xpicbox{
+	width: fit-content;
+	position: absolute;
+}
+
+.xpics{
+	position: absolute;
+}
+
+.infftxtt{
+	position: absolute;
+	color: 000;
+}
+
+.infftxttfb{
+	position: absolute;
+	color: 000;
+}
+
+.infftxttig{
+	position: absolute;
+	color: 000;
+}
+
+.infftxttx{
+	position: absolute;
+	color: 000;
+}
+
+
+.missionvibox{
+	width: 100%;
+	position: relative;
+}
+
+.mission{
+	position: absolute;
+}
+
+.vision{
+	position: absolute;
+}
+
+.relocate{
+	width: 100%;
+}
+
+.relocatebg{
+	position: relative;
+}
+
+.relocatebox{
+	background-color: #F3F9FB;
+	z-index: 1;
+	position: relative;
+}
+
+.relocateboxx{
+	background-color: #F3F9FB;
+	z-index: 2;
+	position: absolute;	
+}
+
+.relocateconbox{
+	background-color:#F3F9FB;
+	z-index: 1;
+	position: relative;
+}
+
+.relocateabt{
+	position: relative;
+	width: 100%;
+}
+
+.relocategal{
+	position: relative;
+	width: 100%;
+}
+
+.relocatecon{
+	position: relative;
+	width: 100%;
+}
+
+.conjpg{
+	float: right;
+	object-fit: cover;
+	position: relative;
+}
+
+.hehejpg{
+	float: right;
+	object-fit: cover;
+	position: relative;
+}
+
+.wajpg{
+	float:left;
+	object-fit: cover;
+	position: absolute;
+	z-index: -1;
+}
+
+.relocatetxt{
+	position: absolute;
+	text-align: center;
+}
+
+.relocatetxtt{
+	position: absolute;
+	text-align: center;
+}
+
+.relocatecontext{
+	position: absolute;
+	text-align: center;
+}
+
+.dia{
+	position: absolute;
+	z-index: -2;
+}
+
+.diaa{
+	position: absolute;
+	z-index: -2;
+}
+
+.diaaa{
+	position: relative;
+	z-index: -2;
+}
+
+.buttonrelo{
+	border: 2px solid black;
+	background-color: fff;
+	border-radius: 1vw;
+	position: absolute;
+	z-index: 4;
+}
+
+.buttonreloe{
+	border: 2px solid black;
+	background-color: fff;
+	border-radius: 1vw;
+	position: absolute;
+	z-index: 4;
+}
+
+.buttonreloo{
+	border: 2px solid black;
+	background-color: fff;
+	border-radius: 1vw;
+	position: absolute;
+	
+}
+
+
+.videobac{
+	width: 100%;
+}
+
+.vidbac{
+	object-fit: cover;
+}
+
+.videobac .overlaay{
+	position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.buildingboox .overlaay{
+	position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);	
+}
+
+.physibox{
+	position: relative;
+}
+
+.bgvid{
+	width: 100%;
+	object-fit: cover;
+}
+
+.gallerybox{
+	width: 100%;
+	
+}
+
+.bgbgbg{
+	width: 100%;
+	height: auto;
+	object-fit: cover;
+	position: absolute;
+}
+
+.labclass{
+	width: fit-content;
+	position: relative;
+}
+
+.cert1{
+	width: fit-content;
+	position: relative;
+}
+
+.cert2{
+	width: fit-content;
+	position: relative;
+}
+
+.cert3{
+	width: fit-content;
+	position: relative;
+}
+
+.facilities{
+	width: 100%;
+	position: absolute;
+}
+
+.tree{
+	width: fit-content;
+	position: relative;
+}
